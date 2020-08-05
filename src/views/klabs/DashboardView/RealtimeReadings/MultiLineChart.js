@@ -133,7 +133,7 @@ function MultiLineChart({
 			{...rest}
 		>
 			{/*<p>{JSON.stringify(dataProp)}</p>*/}
-			<p>Entries {dataProp.length}</p>
+			{/*<p>Entries {dataProp.length}</p>*/}
 			<Line data={data2} options={options}/>
 		</div>
 	);

@@ -17,6 +17,7 @@ import TodaysMoney from './TodaysMoney';
 import {SHOW_TEST_BORDERS} from "../../../config";
 import HardwareStatus from "./HardwareStatus";
 import RealtimeReadings from "./RealtimeReadings";
+import VoltageControl from "./VoltageControl/VoltageControl";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -65,6 +66,7 @@ function DashboardView() {
             sm={6}
             xs={12}
           >
+            <VoltageControl/>
           </Grid>
           <Grid
             item

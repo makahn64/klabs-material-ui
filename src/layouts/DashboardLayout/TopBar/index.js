@@ -69,9 +69,9 @@ function TopBar({
           ml={2}
           flexGrow={1}
         />
-        <Search />
-        <Contacts />
-        <Notifications />
+        {/*<Search />*/}
+        {/*<Contacts />*/}
+        {/*<Notifications />*/}
         <Settings />
         <Box ml={2}>
           {/*<Account />*/}

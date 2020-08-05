@@ -70,7 +70,7 @@ function HardwareStatus({className, ...rest}) {
 				<Box>
 					{isConnected ?
 						<Button onClick={() => disconnect()}>Click Here to Disconnect</Button> :
-						<Button onClick={() => connect()}>Click Here to Connect Cunt</Button>}
+						<Button onClick={() => connect()}>Click Here to Connect to Test Unit</Button>}
 				</Box>
 			</Box>
 			<Avatar className={isConnected ? classes.avatar : classes.bavatar}>
