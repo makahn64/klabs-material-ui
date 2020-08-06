@@ -1,0 +1,2 @@
+(this["webpackJsonp@devias-io/material-kit-pro-react"]=this["webpackJsonp@devias-io/material-kit-pro-react"]||[]).push([[68],{2190:function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n),l=a(332),r=Object(n.lazy)((function(){return a.e(54).then(a.bind(null,2143))}));t.default=function(){return i.a.createElement(l.a,{title:"State Management"},i.a.createElement(n.Suspense,{fallback:null},i.a.createElement(r,null)))}}}]);
+//# sourceMappingURL=68.4d5f3529.chunk.js.map
